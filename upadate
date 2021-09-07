@@ -1,0 +1,10 @@
+{
+  "Visibility": "VISIBLE",
+  "Title": "Testando",
+  "Description": "Test Update Dialog GitHub",
+  "MainTextButton": "Update",
+  "Cancelable": "true",
+  "CancelButtonText": "Cancel",
+  "DownloadLink": "www.example.com",
+  "Version": "1.1"
+}
